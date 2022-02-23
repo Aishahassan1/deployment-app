@@ -1,0 +1,5 @@
+if data says: data:text/csv;base64, then it has been encoded to base64 and I need to decode it
+if data starts with b' then it means it has been unicoded and needs you to decode it 
+
+
+set up gitignore first and then do the env last
